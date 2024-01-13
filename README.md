@@ -1,4 +1,4 @@
-<h1>GraphQL Example</h1>
+<h1>Quickstart Example</h1>
 <p>Create your environment variables then run commands:
 <code>
 npm install
